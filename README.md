@@ -17,4 +17,5 @@
 
 <br>
 
-[My Holopin board](https://holopin.io/@deepak_kamath)
+[![@deepak_kamath's Holopin board](https://holopin.me/deepak_kamath)](https://holopin.io/@deepak_kamath)
+
