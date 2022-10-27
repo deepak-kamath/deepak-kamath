@@ -14,3 +14,6 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-kamath&show_icons=true&locale=en" alt="deepak-kamath" /></p>
+
+<br>
+[![@deepak_kamath's Holopin board](https://holopin.me/deepak_kamath)](https://holopin.io/@deepak_kamath)
